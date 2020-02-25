@@ -19,7 +19,6 @@ Your team is going to build a travel brochure site. Each of you will pick a coun
 
 1. You must use semantic HTML tags
 1. You must use CSS imports
-1. You must use modular JavaScript
 1. You must use good CSS naming conventions, prefereably the BEM format
 1. You must use Flexbox
 1. You have one of your teammates approve a pull request before your branch is merged into `master`.
