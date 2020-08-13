@@ -25,6 +25,7 @@ Your team is going to build a travel brochure site. Each of you will pick a coun
 1. You must use Flexbox
 1. You have one of your teammates approve a pull request before your branch is merged into `master`.
 1. You must do all work on a feature branch, never on `master`.
+1. Validate your HTML. Use a tool: [Validator](https://validator.w3.org/)
 
 ## User Experience
 
