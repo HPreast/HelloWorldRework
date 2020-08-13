@@ -4,11 +4,13 @@
 
 Your team is going to build a travel brochure site. Each of you will pick a country that you have always wanted to visit and build a page with the following components.
 
-1. An appealing image header. It could be a city or landmark in that country.
-1. The name of the country as part of the header.
+1. Navigation with links to each page. There should be a visual clue for the active page.
+1. A header that includes an appealing image. It could be a city or landmark in that country.
+1. The header should also include a headline with the name of the country.
 1. A list of cities that you would like to visit in the country.
 1. A list of landmarks that you would like to visit in the country.
-1. A list of heads of state. You can pick your favorites.
+1. A list of famous citizens. You can pick your favorites.
+1. A footer with copyright information.
 
 ## Setup
 
@@ -29,3 +31,6 @@ Your team is going to build a travel brochure site. Each of you will pick a coun
 1. Your team must decide on a consistent experience across all pages. Fonts, color scheme, layout, and structure.
 
 ![layout of hello world](./hello-world-layout.png)
+
+## Stretch Goal
+1. Using [Sharethrough](https://headlines.sharethrough.com/), analyze your headline with the country name. Make adjustments to the copy to make it more engaging.
