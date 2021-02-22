@@ -23,8 +23,8 @@ Your team is going to build a travel brochure site. Each of you will pick a coun
 1. You must use CSS imports
 1. You must use good CSS naming conventions, prefereably the BEM format
 1. You must use Flexbox
-1. You have one of your teammates approve a pull request before your branch is merged into `master`.
-1. You must do all work on a feature branch, never on `master`.
+1. You have one of your teammates approve a pull request before your branch is merged into `main`.
+1. You must do all work on a feature branch, never on `main`.
 1. Validate your HTML. Use a tool: [Validator](https://validator.w3.org/)
 
 ## User Experience
