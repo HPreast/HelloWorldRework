@@ -1,0 +1,63 @@
+/*------Content------*/
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+body {
+    margin: 0;
+}
+.indexLinks img{
+    object-fit: cover;
+	width: 300px;
+	height: 300px;
+}
+
+.indexLinks {
+    display: flex;
+    justify-content: center;
+    margin-top: 6em;
+    margin-bottom: 0;
+}
+
+.indexLinks div {
+    margin: 10px;
+    margin-bottom: 0;
+    padding: 0;
+    border: solid   black .5px;
+}
+
+nav {
+	background-color: black;
+	display: flex;
+	list-style: none;
+	justify-content: center;
+}
+
+nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 60px;
+	text-decoration: none;
+    
+}
+
+nav li a:hover {
+	background-color: #111;
+}
+
+
+
+/*------Text------*/
+header h1 {
+    text-align: Center;
+    margin: 40px;
+    font-size: 3.5em;
+}
