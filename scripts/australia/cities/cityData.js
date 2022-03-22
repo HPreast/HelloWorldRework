@@ -1,7 +1,7 @@
 const cities = [
     "Sydney",
     "Melbourne",
-    "Brisbane"
+    "Brisbaine"
 ];
 
 export const getCities = () => {
